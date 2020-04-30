@@ -1,0 +1,9 @@
+#countdown {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: auto;
+    padding: 30vmin;
+    font-size: 20vmin;
+    color: red;
+}
